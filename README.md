@@ -3,7 +3,7 @@ ReactiveCoordinator is a framework based on the Coordinator pattern. Implemented
 
 ## Requirements
 
-- iOS 13.0
+- iOS 14.0
 - Swift 5
 
 ## How To Use
